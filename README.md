@@ -38,9 +38,7 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-This is a class final project.
-
-For our project, we have decided to build our own AI astronomer which determines the most searched objects in a given day and gets the coordinates of said objects through a DSS (Digitized Sky Survey) query. The project itself can be navigated through a simple and easily understandable website.
+For this project, we have decided to build our own AI astronomer which determines the most searched objects in a given day and gets the coordinates of said objects through a DSS (Digitized Sky Survey) query. The project itself can be navigated through a simple and easily understandable website.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
